@@ -4,4 +4,4 @@
 
 ![Developing the game](https://dgkanatsios.files.wordpress.com/2014/07/image_0d2036fe.png)
 
-Been working on a flappy bird clone over the summer using Unity.
+Been working on a flappy bird clone over the summer using unity. The game currently only has build support for android. I might add iOS build support in a later update
