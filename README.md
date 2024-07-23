@@ -4,4 +4,4 @@
 
 ![Developing the game](https://dgkanatsios.files.wordpress.com/2014/07/image_0d2036fe.png)
 
-Source code for a Flappy Bird style game built in Unity game engine.
+Been working on a flappy bird clone over the summer using Unity.
